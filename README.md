@@ -1,22 +1,22 @@
 <!-- markdownlint-disable MD032 MD033-->
-# 🔥 **Josee9988's GitHub Project Template**
+# GitHub Project Template**
+
+
+
 
 <p align="center">
-  <a href="https://github.com/Josee9988/project-template/generate">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@Josee9988/project-template's">
-  </a>
   <br>
-  <a href="https://github.com/Josee9988/project-template/issues">
-    <img src="https://img.shields.io/github/issues/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's issues"/>
+  <a href="https://github.com/gonzosantos/project-template/issues">
+    <img src="https://img.shields.io/github/issues/gonzosantos/project-template?style=plastic&logo=github" alt="/project-template's issues"/>
   </a>
-  <a href="https://github.com/josee9988/project-template/pulls">
-    <img src="https://img.shields.io/github/issues-pr/Josee9988/project-template?color=0088ff&style=for-the-badge&logo=github" alt="@Josee9988/project-template's pull requests"/>
+  <a href="https://github.com/gonzosantos/project-template/pulls">
+    <img src="https://img.shields.io/github/pulls/gonzosantos/project-template?style=plastic&logo=github" alt="/project-template's pull requests"/>
   </a>
-  <a href="https://github.com/Josee9988/project-template/generate">
-    <img src="https://img.shields.io/badge/use%20this-template-blue?logo=github-sponsors&style=for-the-badge&color=green" alt="@Josee9988/project-template link to create a new repository from the template">
+  <a href="https://github.com/gonzosantos/project-template/forks">
+    <img src="https://img.shields.io/github/forks/gonzosantos/project-template?style=plastic&logo=github" alt="/project-template forks">
   </a>
-  <a href="https://github.com/Josee9988/project-template/actions/workflows/shelltest.yml">
-    <img src="https://github.com/Josee9988/project-template/actions/workflows/shelltest.yml/badge.svg" alt="@Josee9988/project-template's tests">
+  <a href="https://github.com/gonzosantos/project-template/stars">
+    <img src="https://img.shields.io/github/stars/gonzosantos/project-template?style=plastic&logo=github" alt="/project-template's stars">
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 * Manage your issues with **20 issue labels** created just for you!
 * Make your _community healthier_ with all the guides like code of conduct, contributing, support, security...
 * Learn more with the [official GitHub guide on creating repositories from a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-* To start using it; "**[click use this template](https://github.com/Josee9988/project-template/generate)**" and create your new repository,
+* To start using it; "**[click use this template](https://github.com/gonzosantos/project-template/generate)**" and create your new repository,
 * All the basic setup is made through an easy script that will auto-detect all your data to make it lightning fast! 🗲🗲 Clone your new repository and execute the `SETUP_TEMPLATE.sh` shell script to personalize the files with your private details. Check how to run it [here](https://asciinema.org/a/425259).
 * All the markdown follows ["MarkdownLint" rules](https://github.com/DavidAnson/markdownlint).
 
@@ -38,10 +38,10 @@
 
 ## ⚡ **Installation**
 
-1. To create a new repository from this template, **[generate your new repository from this template](https://github.com/Josee9988/project-template/generate)**;
+1. To create a new repository from this template, **[generate your new repository from this template](https://github.com/gonzosantos/project-template/generate)**;
 for more information or guidance, follow the [GitHub guide](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template).
-2. Install the [🤖 used GitHub bots](https://github.com/Josee9988/project-template#-used-github-bots) (recommended)
-3. Clone your new repository **[generated from this template](https://github.com/Josee9988/project-template/generate)** and `cd` into it.
+2. Install the [🤖 used GitHub bots](https://github.com/gonzosantos/project-template#-used-github-bots) (recommended)
+3. Clone your new repository **[generated from this template](https://github.com/gonzosantos/project-template/generate)** and `cd` into it.
 4. **Execute** the `SETUP_TEMPLATE.sh` shell script to **customize** the files with your data.
 
     ```bash
@@ -132,7 +132,7 @@ Files that will get removed after the execution of `SETUP_TEMPLATE.sh` are not s
 
 ## 📝 **Additional notes**
 
-* After **[generating your new repo with this template](https://github.com/Josee9988/project-template/generate)**, make sure to, right after you clone it, run the script `SETUP_TEMPLATE.sh`.
+* After **[generating your new repo with this template](https://github.com/gonzosantos/project-template/generate)**, make sure to, right after you clone it, run the script `SETUP_TEMPLATE.sh`.
 
 * Then, after 'cloning' the repository you will be presented with all the files modified with your project details and information. It is essential to **manually review every file** to check if it fits your requirements and performs any necessary changes to customize the project as you want.
 
@@ -210,10 +210,10 @@ If the bot [probot-settings](https://probot.github.io/apps/settings/) is not ins
 
 ## 🕵️ **Extra recommendations**
 
-For the proper maintenance of the CHANGELOG.md, we recommend this [VSCode extension](https://github.com/Josee9988/Changelog-and-Markdown-snippets)
+For the proper maintenance of the CHANGELOG.md, we recommend this [VSCode extension](https://github.com/gonzosantos/Changelog-and-Markdown-snippets)
 and the read and understanding of the [keep a changelog guide](https://keepachangelog.com/en/1.0.0/).
-Please read and comment about it in this [dev.to post](https://dev.to/josee9988/the-ultimate-github-project-template-1264).
-We also recommend installing all the [used bots](https://github.com/Josee9988/project-template#-used-github-bots).
+Please read and comment about it in this [dev.to post](https://dev.to/gonzosantos/the-ultimate-github-project-template-1264).
+We also recommend installing all the [used bots](https://github.com/gonzosantos/project-template#-used-github-bots).
 
 ## 💉 **Project tests**
 
@@ -226,34 +226,5 @@ bash tests/TESTS_RUNNER.sh
 ```
 
 ---
-
-## 🍰 **Supporters and donators**
-
-<a href="https://github.com/Josee9988/project-template/generate">
-  <img alt="@Josee9988/project-template's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
-</a>
-
-We are currently looking for new donators to help and maintain this project! ❤️
-
-By donating, you will help the development of this project, and *you will be featured in this project's README.md*, so everyone can see your kindness and visit your content ⭐.
-
-<a href="https://github.com/sponsors/Josee9988">
-  <img alt="project logo" src="https://img.shields.io/badge/Sponsor-Josee9988/project template-blue?logo=github-sponsors&style=for-the-badge&color=red">
-</a>
-
----
-
-## 🎉 Was the template helpful? Please help us raise these numbers up
-
-[![GitHub's followers](https://img.shields.io/github/followers/Josee9988.svg?style=social)](https://github.com/Josee9988)
-[![GitHub stars](https://img.shields.io/github/stars/Josee9988/project-template.svg?style=social)](https://github.com/Josee9988/project-template/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/Josee9988/project-template.svg?style=social)](https://github.com/Josee9988/project-template/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/Josee9988/project-template.svg?style=social)](https://github.com/Josee9988/project-template/network/members)
-
-Enjoy! 😃
-
-> ⚠️ Remember that this template should be reviewed and modified to fit your requirements.
-> The script **SETUP_TEMPLATE.sh** should be executed right when you clone your new repository generated from [here](https://github.com/Josee9988/project-template/generate).
-> There will be files that will need *manual revision* ⚠️
 
 _Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_
